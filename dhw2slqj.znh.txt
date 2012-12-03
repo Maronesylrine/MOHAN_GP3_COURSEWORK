@@ -1,0 +1,51 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: unknown <MRAJ10@LAB-M627-PC-09.enterprise.gcal.ac.uk>
+#
+# On branch GP3-Submission
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   MyGame/MyGame.sln
+#	new file:   MyGame/MyGame/MyGame/CCamera.cs
+#	new file:   MyGame/MyGame/MyGame/CEnemy.cs
+#	new file:   MyGame/MyGame/MyGame/CMenuButton.cs
+#	new file:   MyGame/MyGame/MyGame/CModel.cs
+#	new file:   MyGame/MyGame/MyGame/ChaseCamera.cs
+#	new file:   MyGame/MyGame/MyGame/FreeCamera.cs
+#	new file:   MyGame/MyGame/MyGame/Game.ico
+#	new file:   MyGame/MyGame/MyGame/Game1.cs
+#	new file:   MyGame/MyGame/MyGame/GameConstants.cs
+#	new file:   MyGame/MyGame/MyGame/GameThumbnail.png
+#	new file:   MyGame/MyGame/MyGame/MyGame.csproj
+#	new file:   MyGame/MyGame/MyGame/MyGame.csproj.Debug.cachefile
+#	new file:   MyGame/MyGame/MyGame/Program.cs
+#	new file:   MyGame/MyGame/MyGame/Properties/AssemblyInfo.cs
+#	new file:   MyGame/MyGame/MyGame/SkySphere.cs
+#	new file:   MyGame/MyGame/MyGame/Terrain.cs
+#	new file:   MyGame/MyGame/MyGameContent/ARC170_TXT_VERSION_4_D.tga
+#	new file:   MyGame/MyGame/MyGameContent/ARC170_TXT_VERSION_4_N.tga
+#	new file:   MyGame/MyGame/MyGameContent/ARC170_TXT_VERSION_4_S.tga
+#	new file:   MyGame/MyGame/MyGameContent/Audio/War.mp3
+#	new file:   MyGame/MyGame/MyGameContent/Audio/engine.wav
+#	new file:   MyGame/MyGame/MyGameContent/Font.spritefont
+#	new file:   MyGame/MyGame/MyGameContent/MainMenu.jpg
+#	new file:   MyGame/MyGame/MyGameContent/MyGameContent.contentproj
+#	new file:   MyGame/MyGame/MyGameContent/PlayButton.jpg
+#	new file:   MyGame/MyGame/MyGameContent/T-88-FBX.fbx
+#	new file:   MyGame/MyGame/MyGameContent/TerrainEffect.fx
+#	new file:   MyGame/MyGame/MyGameContent/alien1.FBX
+#	new file:   MyGame/MyGame/MyGameContent/clouds.dds
+#	new file:   MyGame/MyGame/MyGameContent/dalek.x
+#	new file:   MyGame/MyGame/MyGameContent/grass.bmp
+#	new file:   MyGame/MyGame/MyGameContent/grass_tile.bmp
+#	new file:   MyGame/MyGame/MyGameContent/heliTextures.JPG
+#	new file:   MyGame/MyGame/MyGameContent/ship.fbx
+#	new file:   MyGame/MyGame/MyGameContent/ship_tex.tga
+#	new file:   MyGame/MyGame/MyGameContent/skysphere_effect.fx
+#	new file:   MyGame/MyGame/MyGameContent/skysphere_mesh.FBX
+#	new file:   MyGame/MyGame/MyGameContent/terrain.bmp
+#
+
